@@ -43,7 +43,7 @@ body {
     display: none;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1300px) {
     .cabecalho {
         background-color: #1D232A;
         display: grid;
